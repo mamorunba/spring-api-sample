@@ -1,0 +1,1 @@
+select id, command_name, status from command_status where id = /* id */1;
